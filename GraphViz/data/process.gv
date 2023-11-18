@@ -1,0 +1,67 @@
+graph G {
+	"runthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "intrthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"intrthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runblthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"runblthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"runthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "kernelthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"kernelthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "zombiethis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"kernelthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "sleepthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"kernelthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runmemthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"sleepthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "swapthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"swapthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runswapthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"runswapthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "newthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"runswapthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runmemthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"newthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runmemthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+	"sleepthis is a test sentence
+ to see how lines are
+ created and handled in the nodes" -- "runmemthis is a test sentence
+ to see how lines are
+ created and handled in the nodes"
+}
